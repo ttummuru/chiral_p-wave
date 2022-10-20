@@ -3,6 +3,7 @@ import matplotlib
 import numpy as np
 from numpy import linalg as LA
 import matplotlib.pyplot as plt
+from matplotlib.colors import ListedColormap, BoundaryNorm
 from matplotlib.collections import LineCollection
 import matplotlib
 from matplotlib import rc
